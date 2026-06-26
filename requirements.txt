@@ -1,0 +1,7 @@
+torch
+transformers
+accelerate
+gradio
+langchain==0.1.20
+sentencepiece
+huggingface_hub
