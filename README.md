@@ -25,13 +25,9 @@ An interactive AI chatbot built using **Qwen2.5 Instruct**, **Hugging Face Trans
 
 ## 📸 Screenshots
 
-### Home Screen
-
-![Home](screenshots/chatbot_home.png)
-
 ### Chat Example
 
-![Demo](screenshots/chatbot_demo.png)
+![Demo](screenshots/Chatbot.png)
 
 ---
 
